@@ -1,6 +1,6 @@
 # unix-inventory-html
 
-Unix Inventory HTML tool for Solaris and Linux environments.
+Unix Inventory HTML tool for Solaris and Linux environments using the CFG2HTML tool.
 
 How to: 
 
@@ -13,4 +13,5 @@ How to:
 Links:
 
 https://www.cfg2html.com/
+
 https://github.com/cfg2html/cfg2html
