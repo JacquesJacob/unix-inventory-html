@@ -6,7 +6,7 @@ How to:
 
 1 - install and start the apache
 
-2 - put these files on path /var/www/html
+2 - put these files in path /var/www/html
 
 3 - all the unix and linux servers need to run the cfg2html by crontab daily.
 
